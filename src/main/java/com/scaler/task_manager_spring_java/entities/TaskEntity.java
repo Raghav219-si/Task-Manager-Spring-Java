@@ -15,7 +15,7 @@ public class TaskEntity {
     private String title;
     private String description;
     private Date deadline;
-    private boolean status;
+    private boolean completed;
 
 //    public void setId(int id){
 //        this.id = id;
